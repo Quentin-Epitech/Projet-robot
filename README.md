@@ -1,4 +1,4 @@
-# Wall-Doding-Robot
+# WALLE2
 
 Ce projet consiste à réaliser un **robot qui voit les obstacles devant lui,et qui change de direction s'il détecte un obstacle devant lui automatiquement.** grâce à un **capteur ultrason HC-SR04** et de **moteurs DC contrôlés par un motor shield** utilisant la bibliothèque `AFMotor`.
 
